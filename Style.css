@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 20px;
+}
+
+.hero img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+}
+
+.menu {
+    background-color: white;
+    padding: 20px;
+}
+
+.food-item {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+}
+
+.food-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.customization {
+    background-color: #ffdd57;
+    padding: 20px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+}
